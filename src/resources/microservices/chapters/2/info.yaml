@@ -1,0 +1,13 @@
+title: Основы JavaScript
+paragraphs:
+  intro:
+    title: Введение в JavaScript
+  datatypes:
+    title: Типы данных
+  ops:
+    title: Базовые операторы
+  loops:
+    title: Циклы
+  funs:
+    title: Функции
+

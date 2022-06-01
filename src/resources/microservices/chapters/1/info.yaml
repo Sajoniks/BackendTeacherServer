@@ -1,0 +1,9 @@
+title: Интернет и основы Frontend
+paragraphs:
+  dns:
+    title: Что такое DNS и как это работает
+  http:
+    title: Что такое протокол HTTP
+  html:
+    title: Основы HTML
+
